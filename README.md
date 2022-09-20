@@ -1,1 +1,1 @@
-Zoom clone using webrtc and web shockets
+video conferencing and realtime chating app using webrtc and web shockets
